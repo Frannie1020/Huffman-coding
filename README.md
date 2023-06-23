@@ -1,6 +1,6 @@
 # Huffman coding
 
-💡Experiment requirements
+💡Experiment requirements  
 This experiment requires the implementation of an exe program. This program follows the huffman encoding style and contains both a compression function and a decompression function. The user compresses with the following command:  
 C:\>test.exe -c uncompress_filename compress_filename  
 In the above command, test.exe is the program name and -c means to compress. uncompress_filename is the name of the file to be compressed and can contain path information, while compress_filename is the name of the file after compression and can also contain path information. The user can uncompress with the following command:  
