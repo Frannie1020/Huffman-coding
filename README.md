@@ -12,13 +12,4 @@ This experiment requires the implementation of two versions of the test.exe prog
  For each version of the program, a diagram of the function call relationships, a diagram of the flow processing relationships and a textual description of them are required in the lab report;  
  For each version of the program, the source code needs to be given in the lab report. For checking purposes, the proportion of comments in the code should be 20% of the total number of lines;  
  For the C++ version of the program, a class relationship diagram needs to be given.  
-Marking criteria for the lab report, including the following:  
- whether the experimental report is standardised  
- whether the content of the lab report is detailed  
- whether the lab report contains function call diagrams, flowcharts, class diagrams and their textual descriptions  
- whether the code comments in the lab report meet the requirements  
- whether the program is correct  
- whether the program is written in strict accordance with the principle of sub-functions  
- how well the C++ version of the program is coupled in terms of class relationships  
- whether the implementation of the program takes into account the large file case  
 
